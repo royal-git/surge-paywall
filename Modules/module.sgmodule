@@ -3,3 +3,5 @@
 
 [Script]
 Example = type=http-response,pattern=https://example.com/,requires-body=1,max-size=-1,control-api=1,script-path=https://raw.githubusercontent.com/royal-git/surge-paywall/master/Time.js,script-update-interval=0
+[MITM]
+hostname = *.example.com
