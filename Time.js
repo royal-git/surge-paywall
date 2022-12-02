@@ -1,2 +1,1 @@
-
-alert("hello, world")
+alert("Taking a break to read: THE TWITTER FILES. https://twitter.com/mtaibbi/status/1598822959866683394")
